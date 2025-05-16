@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pract15_1_voroshilov</string>
+    <string name="hello">Привет</string>
+    <string name="textreg">Наслаждайся отборочными.\nБудь внимателен.\nДелай хорошо.</string>
+    <string name="toaccount">Войти в аккаунт</string>
+    <string name="toreg">Еще нет аккаунта? Зарегистрируйтесь</string>
+    <string name="sign">Sign in</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="reg">Register</string>
+</resources>
