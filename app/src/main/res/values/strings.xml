@@ -8,4 +8,18 @@
     <string name="email">Email</string>
     <string name="password">Пароль</string>
     <string name="reg">Register</string>
+    <string name="profile">Профиль</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_listen">Listen</string>
+    <string name="title_profile">Profile</string>
+    <string name="welcomback">С возвращением, Эмиль!</string>
+    <string name="feeltoday">Каким ты себя чувствуешь сегодня?</string>
+    <string name="calm">Спокойным</string>
+    <string name="relax">Расслабленным</string>
+    <string name="focus">Сосредоточенным</string>
+    <string name="anxious">Взволнованным</string>
+    <string name="header">Заголовок блока</string>
+    <string name="description">Кратенькое описание блока с двумя строчками</string>
+    <string name="more">подробнее</string>
 </resources>
